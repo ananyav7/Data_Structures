@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=kadane_max_subArrays
+comment1.params=numbers
+comment1.target=void\ printSubarrays(int[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3

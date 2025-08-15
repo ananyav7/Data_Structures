@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpiralMatrix
+comment1.params=matrix
+comment1.target=void\ printSpiral(int[][])
+comment2.params=
+comment2.target=void\ main()
+numComments=3
